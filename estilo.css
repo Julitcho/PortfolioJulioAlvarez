@@ -1,0 +1,95 @@
+.intro {
+    text-align: center;
+     
+}
+button { 
+    background-color: darksalmon;
+    color: darkslategray;
+    border: 1000px;
+    border-color: rgb(38, 172, 172);
+    border-radius: 15%;
+
+    
+}
+
+.breveIntro{
+   
+    display: inline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(52, 21, 102);
+    background-color: rgb(195, 91, 91);   
+    font-size: 150%;
+    border-radius: 15%;
+} 
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color:rgb(54, 14, 215);
+    text-decoration-line: underline;
+}
+body {
+    background-color: rgb(102, 142, 161);
+}
+
+#deportes {
+    color: red;
+    background-color: aqua;
+}
+.gustosMusicales {
+    color: rgb(6, 36, 93);
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+img {
+     position: fixed; /* siempre en el mismo lugar */
+            top: 50%; /* centrada verticalmente */
+            right: 2px; /* distancia desde el borde derecho */
+            transform: translateY(-50%); /* ajusta el centro exacto */
+            width: 150px; /* tamaño opcional */
+}
+.uiia {
+    position: fixed; /* siempre en el mismo lugar */
+            top: 20%; /* centrada verticalmente */
+            left: 2px; /* distancia desde el borde derecho */
+            transform: translateY(80%); /* ajusta el centro exacto */
+            width: 150px; /* tamaño opcional */
+}
+.animales{
+    color: rgb(6, 36, 93);
+    font-size: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+ footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            margin-top: 30px;
+        }
+
+        footer a {
+            color: #ffcc00;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+            transition: color 0.3s, transform 0.3s;
+        }
+
+        footer a:hover {
+            color: #ffffff;
+            transform: scale(1.1);
+        }
+
+        footer i {
+            margin-right: 8px;
+        }
+.conclusion {
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            color: rgb(6, 36, 93);
+            font-size: 18px;
+            margin-top: 20px;
+        }
